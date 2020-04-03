@@ -1,4 +1,5 @@
-﻿#coding=utf-8
+#writen by WSJ
+#coding=utf-8
 import sys  
 import requests
 import json
